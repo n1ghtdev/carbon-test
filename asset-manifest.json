@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/carbon-test/static/css/main.900d1b3e.chunk.css",
+    "main.js": "/carbon-test/static/js/main.8cc880f9.chunk.js",
+    "main.js.map": "/carbon-test/static/js/main.8cc880f9.chunk.js.map",
+    "runtime-main.js": "/carbon-test/static/js/runtime-main.66129163.js",
+    "runtime-main.js.map": "/carbon-test/static/js/runtime-main.66129163.js.map",
+    "static/js/2.264b7ada.chunk.js": "/carbon-test/static/js/2.264b7ada.chunk.js",
+    "static/js/2.264b7ada.chunk.js.map": "/carbon-test/static/js/2.264b7ada.chunk.js.map",
+    "index.html": "/carbon-test/index.html",
+    "precache-manifest.a7b4a788fa7c96d055000f0b1aadd2d3.js": "/carbon-test/precache-manifest.a7b4a788fa7c96d055000f0b1aadd2d3.js",
+    "service-worker.js": "/carbon-test/service-worker.js",
+    "static/css/main.900d1b3e.chunk.css.map": "/carbon-test/static/css/main.900d1b3e.chunk.css.map",
+    "static/js/2.264b7ada.chunk.js.LICENSE.txt": "/carbon-test/static/js/2.264b7ada.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66129163.js",
+    "static/js/2.264b7ada.chunk.js",
+    "static/css/main.900d1b3e.chunk.css",
+    "static/js/main.8cc880f9.chunk.js"
+  ]
+}
